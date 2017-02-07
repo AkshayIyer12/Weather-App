@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 8em;
+}
+p {
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  font-size: 40px;
+}
+
